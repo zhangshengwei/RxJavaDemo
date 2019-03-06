@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xianggu.baselib:baselib-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/baselib-1.0.1.aar/774af211f950b46840b14ab752d7abf9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/baselib-1.0.1.aar/774af211f950b46840b14ab752d7abf9/jars/libs/fastjson-1.1.43.android.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/baselib-1.0.1.aar/774af211f950b46840b14ab752d7abf9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xianggu.baselib/baselib/1.0.1/9853b9ec804cdf3938af4018f9b5c0a8f9f76139/baselib-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
